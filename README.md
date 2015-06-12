@@ -1,4 +1,4 @@
-# URL
+#https://github.com/jbrauckmuller/hw_javascript_brauckmuller_james
 
 # Resources
 *Struggled with the console.log.bind(console) for a bit. I had the
